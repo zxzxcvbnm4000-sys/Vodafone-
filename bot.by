@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 # ضع توكن البوت الخاص بك هنا
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8254745519:AAGrnYDAslj-CSgVg4yz8UXQbgQxMxPrHH8"
 bot = telebot.TeleBot(TOKEN)
 
 # قاموس مؤقت لحفظ بيانات كل مستخدم أثناء خطوات الإدخال
