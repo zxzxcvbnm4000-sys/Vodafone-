@@ -1,0 +1,3 @@
+[tool.vercel]
+entrypoint = "bot.py"
+
